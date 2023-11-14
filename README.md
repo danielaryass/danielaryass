@@ -1,7 +1,8 @@
 # Hi there! 👋 
 
-I am **Daniel**, a Junior Frontend proficient in Java Script and well-versed in popular frameworks such as React JS, and Next JS. Not just coding. I have experience as IT Support. 
+I am Daniel, a Junior Frontend Developer proficient in JavaScript and well versed in popular frameworks such as Laravel and Next JS. Beyond coding, I bring valuable experience as an IT Support professional. Armed with a Bachelor's degree in Computer Science, I am a highly motivated and dedicated individual.
 
+With approximately one year of experience in IT Support, I am excited to pivot into the dynamic field of Front-End Development. To enhance my skills, I am currently immersed in a comprehensive bootcamp provided by Dicoding Indonesia, spanning from August of this year until January. My current skill set encompasses HTML, CSS, and JavaScript.
 ## Connect with me
 
 [![Linkedin: Ramdaniel Arya](https://img.shields.io/badge/-Ramdaniel%20Arya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramdanielarya/)](https://www.linkedin.com/in/ramdanielarya/)
